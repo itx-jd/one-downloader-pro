@@ -18,6 +18,11 @@ Simple, clean, and ad-free, it lets you save videos to your gallery with just **
 
 ---
 
+## 📸 Screenshots
+![](assets/screenshots.gif)
+
+---
+
 ## 🔑 How It Works
 
 [![How It Works](assets/how_it_work.png)](#)
@@ -42,10 +47,6 @@ Simple, clean, and ad-free, it lets you save videos to your gallery with just **
 4. Select your desired format and quality.  
 5. Your download will start automatically.  
 
----
-
-## 📸 Screenshots
-![](assets/screenshots.gif)
 
 ---
 
